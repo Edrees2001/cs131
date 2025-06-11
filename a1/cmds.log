@@ -1,17 +1,18 @@
-# Task 1
+# Task 1 - Find home directory
 echo $HOME
 pwd
 
-# Task 2
+# Task 2 - Find files about memory and CPU in /proc
 ls /proc | grep mem
 ls /proc | grep cpu
 
-# Task 3
+# Task 3 - Identify OS version
 ls /etc | grep release
 cat /etc/os-release
 
-# Task 4A
+# Task 4A - Find top 3 pickup locations on April 2nd, 2019
 grep '^2019-04-02' 2019-04.csv | cut -d',' -f8 | sort | uniq -c | sort -nr | head -3
 
-# Task 4B
+# Task 4B - Find top 3 pickup locations on April 10th, 2019
 grep '^2019-04-10' 2019-04.csv | cut -d',' -f8 | sort | uniq -c | sort -nr | head -3
+

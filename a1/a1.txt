@@ -1,24 +1,25 @@
-# Task 1 Output
+# Task 1 - Home directory path
 /home/mohammadedrees_nassimi
 /home/mohammadedrees_nassimi
 
-# Task 2 Output
+# Task 2 - Files in /proc containing memory and CPU info
 meminfo
 cpuinfo
 
-# Task 3 Output
+# Task 3 - OS version from /etc/os-release
 os-release
 PRETTY_NAME="Ubuntu 20.04.6 LTS"
 NAME="Ubuntu"
 VERSION_ID="20.04"
 VERSION="20.04.6 LTS (Focal Fossa)"
 
-# Task 4A Output
+# Task 4A - Top 3 pickup location IDs on April 2nd, 2019
   843 237
   832 142
   798 236
 
-# Task 4B Output
+# Task 4B - Top 3 pickup location IDs on April 10th, 2019
   921 237
   883 236
   775 142
+
