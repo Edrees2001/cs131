@@ -1,0 +1,24 @@
+# Task 1 Output
+/home/mohammadedrees_nassimi
+/home/mohammadedrees_nassimi
+
+# Task 2 Output
+meminfo
+cpuinfo
+
+# Task 3 Output
+os-release
+PRETTY_NAME="Ubuntu 20.04.6 LTS"
+NAME="Ubuntu"
+VERSION_ID="20.04"
+VERSION="20.04.6 LTS (Focal Fossa)"
+
+# Task 4A Output
+  843 237
+  832 142
+  798 236
+
+# Task 4B Output
+  921 237
+  883 236
+  775 142
