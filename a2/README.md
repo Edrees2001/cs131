@@ -1,17 +1,21 @@
 # DataCollector Script
 
-## What This Script Does
-This shell script takes a URL to a dataset (usually from the UCI Machine Learning Repository), downloads it, unzips it if needed, and creates a summary file for each CSV. The summary includes a list of features and basic statistics (min, max, mean, and standard deviation) for any numerical columns selected by the user.
+## 📌 What This Script Does
 
-## How to Use This Script
-1. Make the script executable: `chmod +x datacollector.sh` (only needed once).
-2. Run it with: `./datacollector.sh`
-3. When prompted, paste the URL of a zipped CSV dataset.
-4. Once the features are listed, enter the column numbers that are numerical (comma-separated, no spaces).
+This shell script automates the process of downloading and summarizing tabular datasets (CSV) from the UCI Machine Learning Repository or similar sources. It:
 
-## Demo
+- Downloads a CSV dataset (zipped or not)
+- Extracts the CSV file if it is zipped
+- Displays all column (feature) names with index numbers
+- Prompts the user to input which columns are numerical
+- Generates a `summary.md` file for each CSV that contains:
+  - A numbered list of feature names
+  - Min, Max, Mean, and StdDev for each selected numerical feature
 
-```bash
-$ ./datacollector.sh
-Enter the URL to the dataset: https://archive.ics.uci.edu/static/public/186/wine+quality.zip
-Enter index numbers of numerical columns (comma-separated, no spaces): 1,2,3,4,5,6,7,8,9,10,11
+## ▶️ How to Use This Script
+
+1. **Make the script executable** (you only need to do this once):
+
+   ```bash
+   chmod +x datacollector.sh
+
