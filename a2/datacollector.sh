@@ -40,10 +40,9 @@ for csvfile in "${csv_files[@]}"; do
     echo ""
     echo "Enter the column index numbers of numerical features (comma separated, e.g. 1,2,5):"
     read -r num_cols_input
-
     IFS=',' read -r -a num_cols <<< "$num_cols_input"
 
-    summaryfile="summary.md"
+    summaryfile="summary-${csvfile}.md"
     echo "# Feature Summary for $csvfile" > "$summaryfile"
     echo "" >> "$summaryfile"
     echo "## Feature Index and Names" >> "$summaryfile"
