@@ -19,8 +19,8 @@ This shell script automates the process of downloading and summarizing tabular d
 1. Make the script executable (only needed once): chmod +x datacollector.sh  
 2. Run the Script: ./datacollector.sh  
 3. When prompted:  
-- Enter the URL of the CSV dataset (can be a direct CSV file or a zipped CSV archive)  
-- Enter the column index numbers of numerical features, separated by commas (e.g., 1,2,3,4,5,6,7,8,9,10,11)  
+   - Enter the URL of the CSV dataset (can be a direct CSV file or a zipped CSV archive)  
+   - Enter the column index numbers of numerical features, separated by commas (e.g., 1,2,3,4,5,6,7,8,9,10,11)  
 
 # Demo Example: (Actual Terminal Execution Results)  
 Welcome to Cloud Shell! Type "help" to get started.  
