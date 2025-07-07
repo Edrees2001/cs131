@@ -1,0 +1,27 @@
+# CS 131 - Assignment 3 Output
+# Annotated terminal output of awk script (grader.awk) run on grades.csv
+# Run command: awk -f grader.awk grades.csv
+
+# --------------------------
+# Task 1: Store total grades for each student
+# Task 2: Calculate average and classify Pass/Fail
+# Task 3: Determine highest and lowest scoring students
+# Task 4: Print name, total, average, and status
+# Task 5: Print top and bottom scoring students
+# --------------------------
+
+Student Report
+--------------
+Name: Charlie | Total: 270 | Average: 90.00 | Status: Pass
+Name: Bob     | Total: 246 | Average: 82.00 | Status: Pass
+Name: Alice   | Total: 253 | Average: 84.33 | Status: Pass
+Name: Eve     | Total: 265 | Average: 88.33 | Status: Pass
+Name: David   | Total: 195 | Average: 65.00 | Status: Fail
+
+Top Scoring Student:
+Charlie with total score of 270
+
+Lowest Scoring Student:
+David with total score of 195
+
+# End of output

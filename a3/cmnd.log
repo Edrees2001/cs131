@@ -1,0 +1,15 @@
+# Created a3 directory
+mkdir a3
+cd a3
+
+# Created grades.csv
+nano grades.csv
+
+# Wrote the awk program
+nano grader.awk
+
+# Ran the awk script
+awk -f grader.awk grades.csv | tee a3.txt
+
+# Annotated output
+nano a3.txt
