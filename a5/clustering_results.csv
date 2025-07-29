@@ -1,0 +1,1001 @@
+Series_Title,IMDB_Rating,Runtime,prediction
+The Shawshank Redemption,9.3,142,1
+The Godfather,9.2,175,2
+The Dark Knight,9.0,152,1
+The Godfather: Part II,9.0,202,2
+12 Angry Men,9.0,96,0
+The Lord of the Rings: The Return of the King,8.9,201,2
+Pulp Fiction,8.9,154,2
+Schindler's List,8.9,195,2
+Inception,8.8,148,1
+Fight Club,8.8,139,1
+The Lord of the Rings: The Fellowship of the Ring,8.8,178,2
+Forrest Gump,8.8,142,1
+"Il buono, il brutto, il cattivo",8.8,161,2
+The Lord of the Rings: The Two Towers,8.7,179,2
+The Matrix,8.7,136,1
+Goodfellas,8.7,146,1
+Star Wars: Episode V - The Empire Strikes Back,8.7,124,1
+One Flew Over the Cuckoo's Nest,8.7,133,1
+Hamilton,8.6,160,2
+Gisaengchung,8.6,132,1
+Soorarai Pottru,8.6,153,1
+Interstellar,8.6,169,2
+Cidade de Deus,8.6,130,1
+Sen to Chihiro no kamikakushi,8.6,125,1
+Saving Private Ryan,8.6,169,2
+The Green Mile,8.6,189,2
+La vita è bella,8.6,116,1
+Se7en,8.6,127,1
+The Silence of the Lambs,8.6,118,1
+Star Wars,8.6,121,1
+Seppuku,8.6,133,1
+Shichinin no samurai,8.6,207,2
+It's a Wonderful Life,8.6,130,1
+Joker,8.5,122,1
+Whiplash,8.5,106,0
+The Intouchables,8.5,112,0
+The Prestige,8.5,130,1
+The Departed,8.5,151,1
+The Pianist,8.5,150,1
+Gladiator,8.5,155,2
+American History X,8.5,119,1
+The Usual Suspects,8.5,106,0
+Léon,8.5,110,0
+The Lion King,8.5,88,0
+Terminator 2: Judgment Day,8.5,137,1
+Nuovo Cinema Paradiso,8.5,155,2
+Hotaru no haka,8.5,89,0
+Back to the Future,8.5,116,1
+Once Upon a Time in the West,8.5,165,2
+Psycho,8.5,109,0
+Casablanca,8.5,102,0
+Modern Times,8.5,87,0
+City Lights,8.5,87,0
+Capharnaüm,8.4,126,1
+Ayla: The Daughter of War,8.4,125,1
+Vikram Vedha,8.4,147,1
+Kimi no na wa.,8.4,106,0
+Dangal,8.4,161,2
+Spider-Man: Into the Spider-Verse,8.4,117,1
+Avengers: Endgame,8.4,181,2
+Avengers: Infinity War,8.4,149,1
+Coco,8.4,105,0
+Django Unchained,8.4,165,2
+The Dark Knight Rises,8.4,164,2
+3 Idiots,8.4,170,2
+Taare Zameen Par,8.4,165,2
+WALL·E,8.4,98,0
+The Lives of Others,8.4,137,1
+Oldeuboi,8.4,101,0
+Memento,8.4,113,0
+Mononoke-hime,8.4,134,1
+Once Upon a Time in America,8.4,229,2
+Raiders of the Lost Ark,8.4,115,0
+The Shining,8.4,146,1
+Apocalypse Now,8.4,147,1
+Alien,8.4,117,1
+Anand,8.4,122,1
+Tengoku to jigoku,8.4,143,1
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.4,95,0
+Witness for the Prosecution,8.4,116,1
+Paths of Glory,8.4,88,0
+Rear Window,8.4,112,0
+Sunset Blvd.,8.4,110,0
+The Great Dictator,8.4,125,1
+1917,8.3,119,1
+Tumbbad,8.3,104,0
+Andhadhun,8.3,139,1
+Drishyam,8.3,160,2
+Jagten,8.3,115,0
+Jodaeiye Nader az Simin,8.3,123,1
+Incendies,8.3,131,1
+Miracle in cell NO.7,8.3,132,1
+Babam ve Oglum,8.3,112,0
+Inglourious Basterds,8.3,153,1
+Eternal Sunshine of the Spotless Mind,8.3,108,0
+Amélie,8.3,122,1
+Snatch,8.3,104,0
+Requiem for a Dream,8.3,102,0
+American Beauty,8.3,122,1
+Good Will Hunting,8.3,126,1
+Bacheha-Ye aseman,8.3,89,0
+Toy Story,8.3,81,0
+Braveheart,8.3,178,2
+Reservoir Dogs,8.3,99,0
+Full Metal Jacket,8.3,116,1
+Idi i smotri,8.3,142,1
+Aliens,8.3,137,1
+Amadeus,8.3,160,2
+Scarface,8.3,170,2
+Star Wars: Episode VI - Return of the Jedi,8.3,131,1
+Das Boot,8.3,149,1
+Taxi Driver,8.3,114,0
+The Sting,8.3,129,1
+A Clockwork Orange,8.3,136,1
+2001: A Space Odyssey,8.3,149,1
+Per qualche dollaro in più,8.3,132,1
+Lawrence of Arabia,8.3,228,2
+The Apartment,8.3,125,1
+North by Northwest,8.3,136,1
+Vertigo,8.3,128,1
+Singin' in the Rain,8.3,103,0
+Ikiru,8.3,143,1
+Ladri di biciclette,8.3,89,0
+Double Indemnity,8.3,107,0
+Citizen Kane,8.3,119,1
+M - Eine Stadt sucht einen Mörder,8.3,117,1
+Metropolis,8.3,153,1
+The Kid,8.3,68,0
+Chhichhore,8.2,143,1
+Uri: The Surgical Strike,8.2,138,1
+K.G.F: Chapter 1,8.2,156,2
+Green Book,8.2,130,1
+"Three Billboards Outside Ebbing, Missouri",8.2,115,0
+Talvar,8.2,132,1
+Baahubali 2: The Conclusion,8.2,167,2
+Klaus,8.2,96,0
+Drishyam,8.2,163,2
+Queen,8.2,146,1
+Mandariinid,8.2,87,0
+Bhaag Milkha Bhaag,8.2,186,2
+Gangs of Wasseypur,8.2,321,2
+Udaan,8.2,134,1
+Paan Singh Tomar,8.2,135,1
+El secreto de sus ojos,8.2,129,1
+Warrior,8.2,140,1
+Shutter Island,8.2,138,1
+Up,8.2,96,0
+The Wolf of Wall Street,8.2,180,2
+Chak De! India,8.2,153,1
+There Will Be Blood,8.2,158,2
+Pan's Labyrinth,8.2,118,1
+Toy Story 3,8.2,103,0
+V for Vendetta,8.2,132,1
+Rang De Basanti,8.2,167,2
+Black,8.2,122,1
+Batman Begins,8.2,140,1
+"Swades: We, the People",8.2,210,2
+Der Untergang,8.2,156,2
+Hauru no ugoku shiro,8.2,119,1
+A Beautiful Mind,8.2,135,1
+Hera Pheri,8.2,156,2
+"Lock, Stock and Two Smoking Barrels",8.2,107,0
+L.A. Confidential,8.2,138,1
+Eskiya,8.2,128,1
+Heat,8.2,170,2
+Casino,8.2,178,2
+Andaz Apna Apna,8.2,160,2
+Unforgiven,8.2,130,1
+Indiana Jones and the Last Crusade,8.2,127,1
+Dom za vesanje,8.2,142,1
+Tonari no Totoro,8.2,86,0
+Die Hard,8.2,132,1
+Ran,8.2,162,2
+Raging Bull,8.2,129,1
+Stalker,8.2,162,2
+Höstsonaten,8.2,99,0
+The Message,8.2,177,2
+Sholay,8.2,204,2
+Monty Python and the Holy Grail,8.2,91,0
+The Great Escape,8.2,172,2
+To Kill a Mockingbird,8.2,129,1
+Yôjinbô,8.2,110,0
+Judgment at Nuremberg,8.2,179,2
+Some Like It Hot,8.2,121,1
+Smultronstället,8.2,91,0
+Det sjunde inseglet,8.2,96,0
+Du rififi chez les hommes,8.2,118,1
+Dial M for Murder,8.2,105,0
+Tôkyô monogatari,8.2,136,1
+Rashômon,8.2,88,0
+All About Eve,8.2,138,1
+The Treasure of the Sierra Madre,8.2,126,1
+To Be or Not to Be,8.2,99,0
+The Gold Rush,8.2,95,0
+Sherlock Jr.,8.2,45,0
+Portrait de la jeune fille en feu,8.1,122,1
+Pink,8.1,136,1
+Koe no katachi,8.1,130,1
+Contratiempo,8.1,106,0
+Ah-ga-ssi,8.1,145,1
+Mommy,8.1,139,1
+Haider,8.1,160,2
+Logan,8.1,137,1
+Room,8.1,118,1
+Relatos salvajes,8.1,122,1
+Soul,8.1,100,0
+Kis Uykusu,8.1,196,2
+PK,8.1,153,1
+OMG: Oh My God!,8.1,125,1
+The Grand Budapest Hotel,8.1,99,0
+Gone Girl,8.1,149,1
+Ôkami kodomo no Ame to Yuki,8.1,117,1
+Hacksaw Ridge,8.1,139,1
+Inside Out,8.1,95,0
+Barfi!,8.1,151,1
+12 Years a Slave,8.1,134,1
+Rush,8.1,123,1
+Ford v Ferrari,8.1,152,1
+Spotlight,8.1,129,1
+Song of the Sea,8.1,93,0
+Kahaani,8.1,122,1
+Zindagi Na Milegi Dobara,8.1,155,2
+Prisoners,8.1,153,1
+Mad Max: Fury Road,8.1,120,1
+A Wednesday,8.1,104,0
+Gran Torino,8.1,116,1
+Harry Potter and the Deathly Hallows: Part 2,8.1,130,1
+Okuribito,8.1,130,1
+Hachi: A Dog's Tale,8.1,93,0
+Mary and Max,8.1,92,0
+How to Train Your Dragon,8.1,98,0
+Into the Wild,8.1,148,1
+No Country for Old Men,8.1,122,1
+Lage Raho Munna Bhai,8.1,144,1
+Million Dollar Baby,8.1,132,1
+Hotel Rwanda,8.1,121,1
+Taegukgi hwinalrimyeo,8.1,140,1
+Before Sunset,8.1,80,0
+Munna Bhai M.B.B.S.,8.1,156,2
+Salinui chueok,8.1,131,1
+Dil Chahta Hai,8.1,183,2
+Kill Bill: Vol. 1,8.1,111,0
+Finding Nemo,8.1,100,0
+Catch Me If You Can,8.1,141,1
+Amores perros,8.1,154,2
+"Monsters, Inc.",8.1,92,0
+"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",8.1,87,0
+Lagaan: Once Upon a Time in India,8.1,224,2
+The Sixth Sense,8.1,107,0
+La leggenda del pianista sull'oceano,8.1,169,2
+The Truman Show,8.1,103,0
+"Crna macka, beli macor",8.1,127,1
+The Big Lebowski,8.1,117,1
+Fa yeung nin wah,8.1,98,0
+Trainspotting,8.1,93,0
+Fargo,8.1,98,0
+Underground,8.1,170,2
+La haine,8.1,98,0
+Dilwale Dulhania Le Jayenge,8.1,189,2
+Before Sunrise,8.1,101,0
+Trois couleurs: Rouge,8.1,99,0
+Chung Hing sam lam,8.1,102,0
+Jurassic Park,8.1,127,1
+In the Name of the Father,8.1,133,1
+Ba wang bie ji,8.1,171,2
+Dà hóng denglong gaogao guà,8.1,125,1
+Dead Poets Society,8.1,128,1
+Stand by Me,8.1,89,0
+Platoon,8.1,120,1
+"Paris, Texas",8.1,145,1
+Kaze no tani no Naushika,8.1,117,1
+The Thing,8.1,109,0
+Pink Floyd: The Wall,8.1,95,0
+Fitzcarraldo,8.1,158,2
+Fanny och Alexander,8.1,188,2
+Blade Runner,8.1,117,1
+The Elephant Man,8.1,124,1
+Life of Brian,8.1,94,0
+The Deer Hunter,8.1,183,2
+Rocky,8.1,120,1
+Network,8.1,121,1
+Barry Lyndon,8.1,185,2
+Zerkalo,8.1,107,0
+Chinatown,8.1,130,1
+Paper Moon,8.1,102,0
+Viskningar och rop,8.1,91,0
+Solaris,8.1,167,2
+Le samouraï,8.1,105,0
+Cool Hand Luke,8.1,127,1
+Persona,8.1,85,0
+Andrei Rublev,8.1,205,2
+La battaglia di Algeri,8.1,121,1
+El ángel exterminador,8.1,95,0
+What Ever Happened to Baby Jane?,8.1,134,1
+Sanjuro,8.1,96,0
+The Man Who Shot Liberty Valance,8.1,123,1
+Ivanovo detstvo,8.1,95,0
+Jungfrukällan,8.1,89,0
+Inherit the Wind,8.1,128,1
+Les quatre cents coups,8.1,99,0
+Ben-Hur,8.1,212,2
+Kakushi-toride no san-akunin,8.1,139,1
+Le notti di Cabiria,8.1,110,0
+Kumonosu-jô,8.1,110,0
+The Bridge on the River Kwai,8.1,161,2
+On the Waterfront,8.1,108,0
+Le salaire de la peur,8.1,131,1
+Ace in the Hole,8.1,111,0
+White Heat,8.1,114,0
+The Third Man,8.1,104,0
+The Red Shoes,8.1,135,1
+The Shop Around the Corner,8.1,99,0
+Rebecca,8.1,130,1
+Mr. Smith Goes to Washington,8.1,129,1
+Gone with the Wind,8.1,238,2
+La Grande Illusion,8.1,113,0
+It Happened One Night,8.1,105,0
+La passion de Jeanne d'Arc,8.1,110,0
+The Circus,8.1,72,0
+Sunrise: A Song of Two Humans,8.1,94,0
+The General,8.1,67,0
+Das Cabinet des Dr. Caligari,8.1,76,0
+Badhaai ho,8.0,124,1
+Togo,8.0,113,0
+Airlift,8.0,130,1
+Bajrangi Bhaijaan,8.0,163,2
+Baby,8.0,159,2
+La La Land,8.0,128,1
+Lion,8.0,118,1
+The Martian,8.0,144,1
+Zootopia,8.0,108,0
+Bãhubali: The Beginning,8.0,159,2
+Kaguyahime no monogatari,8.0,137,1
+Wonder,8.0,113,0
+Gully Boy,8.0,154,2
+Special Chabbis,8.0,144,1
+Short Term 12,8.0,96,0
+Serbuan maut 2: Berandal,8.0,150,1
+The Imitation Game,8.0,114,0
+Guardians of the Galaxy,8.0,121,1
+Blade Runner 2049,8.0,164,2
+Her,8.0,126,1
+Bohemian Rhapsody,8.0,134,1
+The Revenant,8.0,156,2
+The Perks of Being a Wallflower,8.0,103,0
+Tropa de Elite 2: O Inimigo Agora é Outro,8.0,115,0
+The King's Speech,8.0,118,1
+The Help,8.0,146,1
+Deadpool,8.0,108,0
+Darbareye Elly,8.0,119,1
+Dev.D,8.0,144,1
+Yip Man,8.0,106,0
+My Name Is Khan,8.0,165,2
+Nefes: Vatan Sagolsun,8.0,128,1
+Slumdog Millionaire,8.0,120,1
+Black Swan,8.0,108,0
+Tropa de Elite,8.0,115,0
+The Avengers,8.0,143,1
+Persepolis,8.0,96,0
+Dallas Buyers Club,8.0,117,1
+The Pursuit of Happyness,8.0,117,1
+Blood Diamond,8.0,143,1
+The Bourne Ultimatum,8.0,115,0
+Bin-jip,8.0,88,0
+Sin City,8.0,124,1
+Le scaphandre et le papillon,8.0,112,0
+G.O.R.A.,8.0,127,1
+Ratatouille,8.0,111,0
+Casino Royale,8.0,144,1
+Kill Bill: Vol. 2,8.0,137,1
+Vozvrashchenie,8.0,110,0
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,8.0,103,0
+Mar adentro,8.0,126,1
+Cinderella Man,8.0,144,1
+Kal Ho Naa Ho,8.0,186,2
+Mou gaan dou,8.0,101,0
+Pirates of the Caribbean: The Curse of the Black Pearl,8.0,143,1
+Big Fish,8.0,125,1
+The Incredibles,8.0,115,0
+Yeopgijeogin geunyeo,8.0,137,1
+Dogville,8.0,178,2
+Vizontele,8.0,110,0
+Donnie Darko,8.0,113,0
+Magnolia,8.0,188,2
+Dancer in the Dark,8.0,140,1
+The Straight Story,8.0,112,0
+Pâfekuto burû,8.0,81,0
+Festen,8.0,105,0
+Central do Brasil,8.0,110,0
+The Iron Giant,8.0,86,0
+Knockin' on Heaven's Door,8.0,87,0
+Sling Blade,8.0,135,1
+Secrets & Lies,8.0,136,1
+Twelve Monkeys,8.0,129,1
+Kôkaku Kidôtai,8.0,83,0
+The Nightmare Before Christmas,8.0,76,0
+Groundhog Day,8.0,101,0
+Bound by Honor,8.0,180,2
+Scent of a Woman,8.0,156,2
+Aladdin,8.0,90,0
+JFK,8.0,189,2
+Beauty and the Beast,8.0,84,0
+Dances with Wolves,8.0,181,2
+Do the Right Thing,8.0,120,1
+Rain Man,8.0,133,1
+Akira,8.0,124,1
+The Princess Bride,8.0,98,0
+Der Himmel über Berlin,8.0,128,1
+Au revoir les enfants,8.0,104,0
+Tenkû no shiro Rapyuta,8.0,125,1
+The Terminator,8.0,107,0
+Gandhi,8.0,191,2
+Kagemusha,8.0,180,2
+Being There,8.0,130,1
+Annie Hall,8.0,93,0
+Jaws,8.0,124,1
+Dog Day Afternoon,8.0,125,1
+Young Frankenstein,8.0,106,0
+Papillon,8.0,151,1
+The Exorcist,8.0,122,1
+Sleuth,8.0,138,1
+The Last Picture Show,8.0,118,1
+Fiddler on the Roof,8.0,181,2
+Il conformista,8.0,113,0
+Butch Cassidy and the Sundance Kid,8.0,110,0
+Rosemary's Baby,8.0,137,1
+Planet of the Apes,8.0,112,0
+The Graduate,8.0,106,0
+Who's Afraid of Virginia Woolf?,8.0,131,1
+The Sound of Music,8.0,172,2
+Doctor Zhivago,8.0,197,2
+Per un pugno di dollari,8.0,99,0
+8½,8.0,138,1
+Vivre sa vie: Film en douze tableaux,8.0,80,0
+The Hustler,8.0,134,1
+La dolce vita,8.0,174,2
+Rio Bravo,8.0,141,1
+Anatomy of a Murder,8.0,161,2
+Touch of Evil,8.0,95,0
+Cat on a Hot Tin Roof,8.0,108,0
+Sweet Smell of Success,8.0,96,0
+The Killing,8.0,84,0
+The Night of the Hunter,8.0,92,0
+La Strada,8.0,108,0
+Les diaboliques,8.0,117,1
+Stalag 17,8.0,120,1
+Roman Holiday,8.0,118,1
+A Streetcar Named Desire,8.0,122,1
+In a Lonely Place,8.0,94,0
+Kind Hearts and Coronets,8.0,106,0
+Rope,8.0,80,0
+Out of the Past,8.0,97,0
+Brief Encounter,8.0,86,0
+Laura,8.0,88,0
+The Best Years of Our Lives,8.0,170,2
+Arsenic and Old Lace,8.0,118,1
+The Maltese Falcon,8.0,100,0
+The Grapes of Wrath,8.0,129,1
+The Wizard of Oz,8.0,102,0
+La règle du jeu,8.0,110,0
+The Thin Man,8.0,91,0
+All Quiet on the Western Front,8.0,152,1
+Bronenosets Potemkin,8.0,75,0
+Knives Out,7.9,130,1
+Dil Bechara,7.9,101,0
+Manbiki kazoku,7.9,121,1
+Marriage Story,7.9,137,1
+Call Me by Your Name,7.9,132,1
+"I, Daniel Blake",7.9,100,0
+Isle of Dogs,7.9,101,0
+Hunt for the Wilderpeople,7.9,101,0
+Captain Fantastic,7.9,118,1
+Sing Street,7.9,106,0
+Thor: Ragnarok,7.9,130,1
+Nightcrawler,7.9,117,1
+Jojo Rabbit,7.9,108,0
+Arrival,7.9,116,1
+Star Wars: Episode VII - The Force Awakens,7.9,138,1
+Before Midnight,7.9,109,0
+X-Men: Days of Future Past,7.9,132,1
+Bir Zamanlar Anadolu'da,7.9,157,2
+The Artist,7.9,100,0
+Edge of Tomorrow,7.9,113,0
+Amour,7.9,127,1
+The Irishman,7.9,209,2
+Un prophète,7.9,155,2
+Moon,7.9,97,0
+Låt den rätte komma in,7.9,114,0
+District 9,7.9,112,0
+The Wrestler,7.9,109,0
+Jab We Met,7.9,138,1
+Boyhood,7.9,165,2
+"4 luni, 3 saptamâni si 2 zile",7.9,113,0
+Star Trek,7.9,127,1
+In Bruges,7.9,107,0
+The Man from Earth,7.9,87,0
+Letters from Iwo Jima,7.9,141,1
+The Fall,7.9,117,1
+Life of Pi,7.9,127,1
+Fantastic Mr. Fox,7.9,87,0
+C.R.A.Z.Y.,7.9,129,1
+Les choristes,7.9,97,0
+Iron Man,7.9,126,1
+Shaun of the Dead,7.9,99,0
+Gegen die Wand,7.9,121,1
+Mystic River,7.9,138,1
+Harry Potter and the Prisoner of Azkaban,7.9,142,1
+Ying xiong,7.9,120,1
+Hable con ella,7.9,112,0
+No Man's Land,7.9,98,0
+Cowboy Bebop: Tengoku no tobira,7.9,115,0
+The Bourne Identity,7.9,119,1
+Nueve reinas,7.9,114,0
+Children of Men,7.9,109,0
+Almost Famous,7.9,122,1
+Mulholland Dr.,7.9,147,1
+Toy Story 2,7.9,92,0
+Boogie Nights,7.9,155,2
+Mimi wo sumaseba,7.9,111,0
+Once Were Warriors,7.9,102,0
+True Romance,7.9,119,1
+Trois couleurs: Bleu,7.9,94,0
+Jûbê ninpûchô,7.9,94,0
+Carlito's Way,7.9,144,1
+Edward Scissorhands,7.9,105,0
+My Left Foot: The Story of Christy Brown,7.9,103,0
+Crimes and Misdemeanors,7.9,104,0
+The Untouchables,7.9,119,1
+Hannah and Her Sisters,7.9,107,0
+Brazil,7.9,132,1
+This Is Spinal Tap,7.9,82,0
+A Christmas Story,7.9,93,0
+The Blues Brothers,7.9,133,1
+Manhattan,7.9,96,0
+All That Jazz,7.9,123,1
+Dawn of the Dead,7.9,127,1
+All the President's Men,7.9,138,1
+La montaña sagrada,7.9,114,0
+Amarcord,7.9,123,1
+Le charme discret de la bourgeoisie,7.9,102,0
+"Aguirre, der Zorn Gottes",7.9,95,0
+Harold and Maude,7.9,91,0
+Patton,7.9,172,2
+The Wild Bunch,7.9,145,1
+Night of the Living Dead,7.9,96,0
+The Lion in Winter,7.9,134,1
+In the Heat of the Night,7.9,110,0
+Charade,7.9,113,0
+The Manchurian Candidate,7.9,126,1
+Spartacus,7.9,197,2
+L'avventura,7.9,144,1
+Hiroshima mon amour,7.9,90,0
+The Ten Commandments,7.9,220,2
+The Searchers,7.9,119,1
+East of Eden,7.9,118,1
+High Noon,7.9,85,0
+Strangers on a Train,7.9,101,0
+Harvey,7.9,104,0
+Miracle on 34th Street,7.9,96,0
+Notorious,7.9,102,0
+The Big Sleep,7.9,114,0
+The Lost Weekend,7.9,101,0
+The Philadelphia Story,7.9,112,0
+His Girl Friday,7.9,92,0
+The Adventures of Robin Hood,7.9,102,0
+A Night at the Opera,7.9,96,0
+King Kong,7.9,100,0
+Freaks,7.9,64,0
+Nosferatu,7.9,94,0
+The Gentlemen,7.8,113,0
+Raazi,7.8,138,1
+Sound of Metal,7.8,120,1
+Forushande,7.8,124,1
+Dunkirk,7.8,106,0
+Perfetti sconosciuti,7.8,96,0
+Hidden Figures,7.8,127,1
+Paddington 2,7.8,103,0
+Udta Punjab,7.8,148,1
+Kubo and the Two Strings,7.8,101,0
+M.S. Dhoni: The Untold Story,7.8,184,2
+Manchester by the Sea,7.8,137,1
+Under sandet,7.8,100,0
+Rogue One,7.8,133,1
+Captain America: Civil War,7.8,147,1
+The Hateful Eight,7.8,168,2
+Little Women,7.8,135,1
+Loving Vincent,7.8,94,0
+Pride,7.8,119,1
+Le passé,7.8,130,1
+La grande bellezza,7.8,141,1
+The Lunchbox,7.8,104,0
+Vicky Donor,7.8,126,1
+Big Hero 6,7.8,102,0
+About Time,7.8,123,1
+English Vinglish,7.8,134,1
+Kaze tachinu,7.8,126,1
+Toy Story 4,7.8,100,0
+La migliore offerta,7.8,131,1
+Moonrise Kingdom,7.8,94,0
+How to Train Your Dragon 2,7.8,102,0
+The Big Short,7.8,130,1
+Kokuhaku,7.8,106,0
+Ang-ma-reul bo-at-da,7.8,144,1
+The Girl with the Dragon Tattoo,7.8,158,2
+Captain Phillips,7.8,134,1
+Ajeossi,7.8,119,1
+Straight Outta Compton,7.8,147,1
+Madeo,7.8,129,1
+Chugyeokja,7.8,125,1
+The Hobbit: The Desolation of Smaug,7.8,161,2
+Das weiße Band - Eine deutsche Kindergeschichte,7.8,144,1
+Män som hatar kvinnor,7.8,152,1
+The Trial of the Chicago 7,7.8,129,1
+Druk,7.8,117,1
+The Fighter,7.8,116,1
+Taken,7.8,90,0
+The Boy in the Striped Pyjamas,7.8,94,0
+Once,7.8,86,0
+The Hobbit: An Unexpected Journey,7.8,169,2
+Auf der anderen Seite,7.8,122,1
+Atonement,7.8,123,1
+Drive,7.8,100,0
+American Gangster,7.8,157,2
+Avatar,7.8,162,2
+Mr. Nobody,7.8,141,1
+Apocalypto,7.8,139,1
+Little Miss Sunshine,7.8,101,0
+Hot Fuzz,7.8,121,1
+The Curious Case of Benjamin Button,7.8,166,2
+Veer-Zaara,7.8,192,2
+Adams æbler,7.8,94,0
+Pride & Prejudice,7.8,129,1
+The World's Fastest Indian,7.8,127,1
+Tôkyô goddofâzâzu,7.8,90,0
+Serenity,7.8,119,1
+Walk the Line,7.8,136,1
+Ondskan,7.8,113,0
+The Notebook,7.8,123,1
+Diarios de motocicleta,7.8,126,1
+Lilja 4-ever,7.8,109,0
+Les triplettes de Belleville,7.8,80,0
+Gongdong gyeongbi guyeok JSA,7.8,110,0
+The Count of Monte Cristo,7.8,131,1
+Waking Life,7.8,99,0
+Remember the Titans,7.8,113,0
+Wo hu cang long,7.8,120,1
+Todo sobre mi madre,7.8,101,0
+Cast Away,7.8,143,1
+The Boondock Saints,7.8,108,0
+The Insider,7.8,157,2
+October Sky,7.8,108,0
+Shrek,7.8,90,0
+Titanic,7.8,194,2
+Hana-bi,7.8,103,0
+Gattaca,7.8,106,0
+The Game,7.8,129,1
+Breaking the Waves,7.8,159,2
+Ed Wood,7.8,127,1
+What's Eating Gilbert Grape,7.8,118,1
+Tombstone,7.8,130,1
+The Sandlot,7.8,101,0
+The Remains of the Day,7.8,134,1
+Naked,7.8,132,1
+The Fugitive,7.8,130,1
+A Bronx Tale,7.8,121,1
+Batman: Mask of the Phantasm,7.8,76,0
+Lat sau san taam,7.8,128,1
+Night on Earth,7.8,129,1
+La double vie de Véronique,7.8,98,0
+Boyz n the Hood,7.8,112,0
+Misery,7.8,107,0
+Awakenings,7.8,121,1
+Majo no takkyûbin,7.8,103,0
+Glory,7.8,122,1
+Dip huet seung hung,7.8,111,0
+Back to the Future Part II,7.8,108,0
+Mississippi Burning,7.8,128,1
+Predator,7.8,107,0
+Evil Dead II,7.8,84,0
+Ferris Bueller's Day Off,7.8,103,0
+Down by Law,7.8,107,0
+The Goonies,7.8,114,0
+The Color Purple,7.8,154,2
+The Breakfast Club,7.8,97,0
+The Killing Fields,7.8,141,1
+Ghostbusters,7.8,105,0
+The Right Stuff,7.8,193,2
+The King of Comedy,7.8,109,0
+E.T. the Extra-Terrestrial,7.8,115,0
+Kramer vs. Kramer,7.8,105,0
+Days of Heaven,7.8,94,0
+The Outlaw Josey Wales,7.8,135,1
+The Man Who Would Be King,7.8,129,1
+The Conversation,7.8,113,0
+La planète sauvage,7.8,72,0
+The Day of the Jackal,7.8,143,1
+Badlands,7.8,94,0
+Cabaret,7.8,124,1
+Willy Wonka & the Chocolate Factory,7.8,100,0
+Midnight Cowboy,7.8,113,0
+Wait Until Dark,7.8,108,0
+Guess Who's Coming to Dinner,7.8,108,0
+Bonnie and Clyde,7.8,111,0
+My Fair Lady,7.8,170,2
+Mary Poppins,7.8,139,1
+The Longest Day,7.8,178,2
+Jules et Jim,7.8,105,0
+The Innocents,7.8,100,0
+À bout de souffle,7.8,90,0
+Red River,7.8,133,1
+Key Largo,7.8,100,0
+To Have and Have Not,7.8,100,0
+Shadow of a Doubt,7.8,108,0
+Stagecoach,7.8,96,0
+The Lady Vanishes,7.8,96,0
+Bringing Up Baby,7.8,102,0
+Bride of Frankenstein,7.8,75,0
+Duck Soup,7.8,69,0
+Scarface: The Shame of the Nation,7.8,93,0
+Frankenstein,7.8,70,0
+Roma,7.7,135,1
+God's Own Country,7.7,104,0
+Deadpool 2,7.7,119,1
+Wind River,7.7,107,0
+Get Out,7.7,104,0
+Mission: Impossible - Fallout,7.7,147,1
+En man som heter Ove,7.7,116,1
+What We Do in the Shadows,7.7,86,0
+Omoide no Mânî,7.7,103,0
+The Theory of Everything,7.7,123,1
+Kingsman: The Secret Service,7.7,129,1
+The Fault in Our Stars,7.7,126,1
+Me and Earl and the Dying Girl,7.7,105,0
+Birdman or (The Unexpected Virtue of Ignorance),7.7,119,1
+La vie d'Adèle,7.7,180,2
+Kai po che!,7.7,130,1
+The Broken Circle Breakdown,7.7,111,0
+Captain America: The Winter Soldier,7.7,136,1
+Rockstar,7.7,159,2
+Nebraska,7.7,115,0
+Wreck-It Ralph,7.7,101,0
+Le Petit Prince,7.7,108,0
+Detachment,7.7,98,0
+Midnight in Paris,7.7,96,0
+The Lego Movie,7.7,100,0
+Gravity,7.7,91,0
+Star Trek Into Darkness,7.7,132,1
+Beasts of No Nation,7.7,137,1
+The Social Network,7.7,120,1
+X: First Class,7.7,131,1
+The Hangover,7.7,100,0
+Skyfall,7.7,143,1
+Silver Linings Playbook,7.7,122,1
+Argo,7.7,120,1
+(500) Days of Summer,7.7,95,0
+Harry Potter and the Deathly Hallows: Part 1,7.7,146,1
+Gake no ue no Ponyo,7.7,101,0
+Frost/Nixon,7.7,122,1
+Papurika,7.7,90,0
+Changeling,7.7,141,1
+Flipped,7.7,90,0
+Toki o kakeru shôjo,7.7,98,0
+Death Note: Desu nôto,7.7,126,1
+This Is England,7.7,101,0
+Ex Machina,7.7,108,0
+Efter brylluppet,7.7,120,1
+The Last King of Scotland,7.7,123,1
+Zodiac,7.7,157,2
+Lucky Number Slevin,7.7,110,0
+Joyeux Noël,7.7,116,1
+Control,7.7,122,1
+Tangled,7.7,100,0
+Zwartboek,7.7,145,1
+Brokeback Mountain,7.7,134,1
+3:10 to Yuma,7.7,122,1
+Crash,7.7,112,0
+Kung fu,7.7,99,0
+The Bourne Supremacy,7.7,108,0
+The Machinist,7.7,101,0
+Ray,7.7,152,1
+Lost in Translation,7.7,102,0
+Harry Potter and the Goblet of Fire,7.7,157,2
+Man on Fire,7.7,146,1
+Coraline,7.7,100,0
+The Last Samurai,7.7,154,2
+The Magdalene Sisters,7.7,114,0
+Good Bye Lenin!,7.7,121,1
+In America,7.7,105,0
+I Am Sam,7.7,132,1
+Adaptation.,7.7,115,0
+Black Hawk Down,7.7,144,1
+Road to Perdition,7.7,117,1
+Das Experiment,7.7,120,1
+Billy Elliot,7.7,110,0
+Hedwig and the Angry Inch,7.7,95,0
+Ocean's Eleven,7.7,116,1
+Vampire Hunter D: Bloodlust,7.7,103,0
+"O Brother, Where Art Thou?",7.7,107,0
+Interstate 60: Episodes of the Road,7.7,116,1
+"South Park: Bigger, Longer & Uncut",7.7,81,0
+Office Space,7.7,89,0
+Happiness,7.7,134,1
+Training Day,7.7,122,1
+Rushmore,7.7,93,0
+Abre los ojos,7.7,119,1
+Being John Malkovich,7.7,113,0
+As Good as It Gets,7.7,139,1
+The Fifth Element,7.7,126,1
+Le dîner de cons,7.7,80,0
+Donnie Brasco,7.7,127,1
+Shine,7.7,105,0
+Primal Fear,7.7,129,1
+Hamlet,7.7,242,2
+A Little Princess,7.7,97,0
+Do lok tin si,7.7,99,0
+Il postino,7.7,108,0
+Clerks,7.7,92,0
+Short Cuts,7.7,188,2
+Philadelphia,7.7,125,1
+The Muppet Christmas Carol,7.7,85,0
+Malcolm X,7.7,202,2
+The Last of the Mohicans,7.7,112,0
+Kurenai no buta,7.7,94,0
+Glengarry Glen Ross,7.7,100,0
+A Few Good Men,7.7,138,1
+Fried Green Tomatoes,7.7,130,1
+Barton Fink,7.7,116,1
+Miller's Crossing,7.7,115,0
+Who Framed Roger Rabbit,7.7,104,0
+Spoorloos,7.7,107,0
+Withnail & I,7.7,107,0
+The Last Emperor,7.7,163,2
+Empire of the Sun,7.7,153,1
+Der Name der Rose,7.7,130,1
+Blue Velvet,7.7,120,1
+The Purple Rose of Cairo,7.7,82,0
+After Hours,7.7,97,0
+Zelig,7.7,79,0
+The Verdict,7.7,129,1
+Star Trek II: The Wrath of Khan,7.7,113,0
+First Blood,7.7,93,0
+Ordinary People,7.7,124,1
+Airplane!,7.7,88,0
+Rupan sansei: Kariosutoro no shiro,7.7,100,0
+Halloween,7.7,91,0
+Le locataire,7.7,126,1
+Love and Death,7.7,85,0
+The Taking of Pelham One Two Three,7.7,104,0
+Blazing Saddles,7.7,93,0
+Serpico,7.7,130,1
+Enter the Dragon,7.7,102,0
+Deliverance,7.7,109,0
+The French Connection,7.7,104,0
+Dirty Harry,7.7,102,0
+Where Eagles Dare,7.7,158,2
+The Odd Couple,7.7,105,0
+The Dirty Dozen,7.7,150,1
+Belle de jour,7.7,100,0
+A Man for All Seasons,7.7,120,1
+Repulsion,7.7,105,0
+Zulu,7.7,138,1
+Goldfinger,7.7,110,0
+The Birds,7.7,119,1
+Cape Fear,7.7,106,0
+Peeping Tom,7.7,101,0
+The Magnificent Seven,7.7,128,1
+Les yeux sans visage,7.7,90,0
+Invasion of the Body Snatchers,7.7,80,0
+Rebel Without a Cause,7.7,111,0
+The Ladykillers,7.7,91,0
+Sabrina,7.7,113,0
+The Quiet Man,7.7,129,1
+The Day the Earth Stood Still,7.7,92,0
+The African Queen,7.7,105,0
+Gilda,7.7,110,0
+Fantasia,7.7,125,1
+The Invisible Man,7.7,71,0
+Dark Waters,7.6,126,1
+Searching,7.6,102,0
+Once Upon a Time... in Hollywood,7.6,161,2
+Nelyubov,7.6,127,1
+The Florida Project,7.6,111,0
+Just Mercy,7.6,137,1
+Gifted,7.6,101,0
+The Peanut Butter Falcon,7.6,97,0
+Victoria,7.6,138,1
+Mustang,7.6,97,0
+Guardians of the Galaxy Vol. 2,7.6,136,1
+Baby Driver,7.6,113,0
+Only the Brave,7.6,134,1
+Bridge of Spies,7.6,142,1
+Incredibles 2,7.6,118,1
+Moana,7.6,107,0
+Sicario,7.6,121,1
+Creed,7.6,133,1
+Leviafan,7.6,140,1
+Hell or High Water,7.6,102,0
+Philomena,7.6,98,0
+Dawn of the Planet of the Apes,7.6,130,1
+El cuerpo,7.6,112,0
+Serbuan maut,7.6,101,0
+End of Watch,7.6,109,0
+Kari-gurashi no Arietti,7.6,94,0
+A Star Is Born,7.6,136,1
+True Grit,7.6,110,0
+Hævnen,7.6,118,1
+Despicable Me,7.6,95,0
+50/50,7.6,100,0
+Kick-Ass,7.6,117,1
+Celda 211,7.6,113,0
+Moneyball,7.6,133,1
+La piel que habito,7.6,120,1
+Zombieland,7.6,88,0
+Die Welle,7.6,107,0
+Sherlock Holmes,7.6,128,1
+The Blind Side,7.6,129,1
+The Visitor,7.6,104,0
+Seven Pounds,7.6,123,1
+Eastern Promises,7.6,100,0
+Stardust,7.6,127,1
+The Secret of Kells,7.6,71,0
+Inside Man,7.6,129,1
+Gone Baby Gone,7.6,114,0
+La Vie En Rose,7.6,140,1
+Huo Yuan Jia,7.6,104,0
+The Illusionist,7.6,110,0
+Dead Man's Shoes,7.6,90,0
+Harry Potter and the Half-Blood Prince,7.6,153,1
+300,7.6,117,1
+Match Point,7.6,124,1
+Watchmen,7.6,162,2
+Lord of War,7.6,122,1
+Saw,7.6,103,0
+"Synecdoche, New York",7.6,124,1
+Mysterious Skin,7.6,105,0
+Jeux d'enfants,7.6,93,0
+Un long dimanche de fiançailles,7.6,133,1
+The Station Agent,7.6,89,0
+21 Grams,7.6,124,1
+Boksuneun naui geot,7.6,129,1
+Finding Neverland,7.6,106,0
+25th Hour,7.6,135,1
+The Butterfly Effect,7.6,113,0
+28 Days Later...,7.6,113,0
+Batoru rowaiaru,7.6,114,0
+The Royal Tenenbaums,7.6,110,0
+Y tu mamá también,7.6,106,0
+Harry Potter and the Sorcerer's Stone,7.6,152,1
+The Others,7.6,101,0
+Blow,7.6,124,1
+Enemy at the Gates,7.6,131,1
+Minority Report,7.6,145,1
+The Hurricane,7.6,146,1
+American Psycho,7.6,101,0
+Lola rennt,7.6,81,0
+The Thin Red Line,7.6,170,2
+Mulan,7.6,88,0
+Fear and Loathing in Las Vegas,7.6,118,1
+Funny Games,7.6,108,0
+Dark City,7.6,100,0
+Sleepers,7.6,147,1
+Lost Highway,7.6,134,1
+Sense and Sensibility,7.6,136,1
+Die Hard: With a Vengeance,7.6,128,1
+Dead Man,7.6,121,1
+The Bridges of Madison County,7.6,135,1
+Apollo 13,7.6,140,1
+Trois couleurs: Blanc,7.6,92,0
+Falling Down,7.6,113,0
+Dazed and Confused,7.6,102,0
+My Cousin Vinny,7.6,120,1
+Omohide poro poro,7.6,118,1
+Delicatessen,7.6,99,0
+Home Alone,7.6,103,0
+The Godfather: Part III,7.6,162,2
+When Harry Met Sally...,7.6,95,0
+The Little Mermaid,7.6,83,0
+The Naked Gun: From the Files of Police Squad!,7.6,85,0
+"Planes, Trains & Automobiles",7.6,93,0
+Lethal Weapon,7.6,109,0
+Blood Simple,7.6,99,0
+On Golden Pond,7.6,109,0
+Mad Max 2,7.6,96,0
+The Warriors,7.6,92,0
+The Muppet Movie,7.6,95,0
+Escape from Alcatraz,7.6,112,0
+Watership Down,7.6,91,0
+Midnight Express,7.6,121,1
+Close Encounters of the Third Kind,7.6,138,1
+The Long Goodbye,7.6,112,0
+Giù la testa,7.6,157,2
+Kelly's Heroes,7.6,144,1
+The Jungle Book,7.6,78,0
+Blowup,7.6,111,0
+A Hard Day's Night,7.6,87,0
+Breakfast at Tiffany's,7.6,115,0
+Giant,7.6,201,2
+From Here to Eternity,7.6,118,1
+Lifeboat,7.6,97,0
+The 39 Steps,7.6,86,0

@@ -1,0 +1,25 @@
+
+Dataset Metadata:
+- Number of entries: 1000
+- Features: Poster_Link, Series_Title, Released_Year, Certificate, Runtime, Genre, IMDB_Rating, Overview, Meta_score, Director, Star1, Star2, Star3, Star4, No_of_Votes, Gross
+- IMDB Rating stats:
+  summary         IMDB_Rating
+0   count                1000
+1    mean   7.949300000000012
+2  stddev  0.2754912074920139
+3     min                 7.6
+4     max                 9.3
+- Runtime stats:
+  summary  Runtime
+0   count     1000
+1    mean     None
+2  stddev     None
+3     min  100 min
+4     max   99 min
+- Gross stats:
+  summary              Gross
+0   count                831
+1    mean  272456.8181818182
+2  stddev  315488.7617525601
+3     min          1,000,045
+4     max      Orlando Bloom
